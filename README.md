@@ -1,4 +1,4 @@
-# ecommerce_app
+# ecommerce_app for admin
 
 A new Flutter project.
 
